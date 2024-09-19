@@ -29,8 +29,8 @@
 
 <p align="center">
 <a href="https://github.com/Apanawa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Apanawa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Apanawa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
