@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to develop software solutions\
 🎓 &nbsp;I'm currently studying B.S. in Computer Science and Technology at the Tecnológico de Monterrey.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+💬 &nbsp;Feel free to reach out to me for some interesting discussion.
 
 
 ### 🛠 &nbsp;Tech Stack
