@@ -39,6 +39,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/adangzz16/"><img src="https://img.shields.io/badge/-Adán%20Flores-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  
 </p>
 
 
